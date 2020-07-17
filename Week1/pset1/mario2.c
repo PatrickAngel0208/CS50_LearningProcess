@@ -38,5 +38,5 @@ void pyramidBulider(int height)
 
         printf("\n");
     }
-    printf("\n");
+
 }
